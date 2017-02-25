@@ -1,0 +1,16 @@
+/*********************************************************
+-------------------------- Haze --------------------------
+Design: puffles
+CSS: puffles
+Bug Reports: fuckYou
+Style derived from Genaviv and Tentaclastic
+CSS stolen and modified from Haze
+Thanks apop
+*********************************************************/
+
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,bold);
+@import url(themeurl);
+@import url(panelurl,whateverthisis);
+
+/* Background Image */
+body {background-image: url('http://i.imgur.com/TvO76zK.jpg');}
